@@ -6,3 +6,4 @@ Clean
 shower
 add
 create\
+Study
